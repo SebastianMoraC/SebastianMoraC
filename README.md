@@ -19,7 +19,7 @@ Entrepreneur and currently a Computing Engineering student. 👨🏼‍💻🚀 
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
             alt="Sebastian Mora Carmona Gmail">
     </a>
-    <a href="https://www.linkedin.com/in/sebastianmorac/" target="_blank">
+    <a href="https://www.linkedin.com/in/sebastianmorac/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="SebastianMoraC LinkedIn">
     </a>
