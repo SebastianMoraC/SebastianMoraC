@@ -6,9 +6,9 @@ Entrepreneur and currently a Computing Engineering student. 👨🏼‍💻🚀 
 
 ---
 
-## **😊 About me**
+## 🧑🏻 About me**
 
 - 🔭 I’m currently working on my engineer's degree.
 - 💬 Ask me about anything, but for now, I'm fully open to new projects, job , collaborations or ideas!
-
+- 💻 Javascript, HTML, CSS, React, NodeJS, Python, SQL, GIT...
 ---
