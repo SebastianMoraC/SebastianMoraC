@@ -15,7 +15,7 @@ Entrepreneur and currently a Computing Engineering student. 👨🏼‍💻🚀 
 ## **📫 How to reach me**
 
 <div align="center" style="text-align:center">
-    <a href="mailto:moracarmonasebastian2@gmail.com">
+    <a href="mailto:moracarmonasebastian2@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
             alt="Sebastian Mora Carmona Gmail">
     </a>
