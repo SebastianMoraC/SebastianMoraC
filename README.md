@@ -2,7 +2,7 @@
 
 # Hi there, I'm **Sebastián Mora Carmona**! 👋
 
-Entrepreneur and FullStack Developer. 👨🏼‍💻🚀 
+AI Engineer | Software Developer 👨🏼‍💻🚀 
 
 ---
 
