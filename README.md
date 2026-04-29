@@ -8,9 +8,12 @@ AI Engineer | Software Developer 👨🏼‍💻🚀
 
 ## 🧑🏻 About me**
 
-- 🔭 Computer Engineering.
-- 💬 Ask me about anything, but for now, I'm fully open to new projects, job , collaborations or ideas!
-- 💻 Javascript, HTML, CSS, React, NodeJS, Python, SQL, GIT...
+AI & Full Stack Engineer with 5+ years building production AI systems and scalable web platforms. 
+
+Currently working as a Technical Lead on Generative AI initiatives at Perficient, architecting agentic workflows that combine RAG, MCP, OCR, computer vision and ML to automate complex business processes. Hands-on across the modern AI stack — LangChain, LangGraph, Azure AI Foundry, OpenAI, vector databases (pgvector), embeddings and fine-tuning — backed by strong engineering in Python/Django, FastAPI, Node.js, Vue/React and AWS/Azure. 
+
+Active speaker in the Latin American AI community (TribuAI, Pereira Tech Talks) and bilingual (English C1).
+
 ---
 ## **📫 How to reach me**
 
