@@ -6,7 +6,7 @@ AI Engineer | Software Developer 👨🏼‍💻🚀
 
 ---
 
-## 🧑🏻 About me**
+## **🧑🏻 About me**
 
 AI & Full Stack Engineer with 5+ years building production AI systems and scalable web platforms. 
 
